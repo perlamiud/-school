@@ -12,3 +12,5 @@ if (text == revertedText):
     print("Tekst jest palindromem")
 else:
     print("Tekst NIE jest palindromem")
+
+print("kocham pytona.")
